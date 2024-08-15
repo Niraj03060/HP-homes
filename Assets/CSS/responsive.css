@@ -1,0 +1,31 @@
+@media only screen and (max-width: 600px) {
+    .about-us {
+        margin: 0px 5px;
+    }
+
+    .about-us-text {
+        padding: 4px 4px;
+    }
+
+    .about-us-text p {
+        font-size: 1.6vw;
+    }
+
+    .section-div {
+        margin: 10px 0px;
+        border-top: 2px solid #0671Bf;
+        border-bottom: 2px solid #0671Bf;
+    }
+
+    .footer-inner {
+        margin: 6px 0px;
+    }
+
+    .footer-inner a {
+        font-size: 3vw;
+        font-weight: 500;
+    }
+    .footer-logo{
+        font-size: 3vw;
+      }
+}
