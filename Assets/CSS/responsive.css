@@ -8,8 +8,14 @@
     }
 
     .about-us-text p {
-        font-size: 1.6vw;
+        font-size: 2vw;
+        margin: 0px 0px 3px 0px;
     }
+
+    .about-us-text h2{
+        padding: 4px 0px 0px 0px;
+        font-size: 3vw;
+      }
 
     .section-div {
         margin: 10px 0px;
