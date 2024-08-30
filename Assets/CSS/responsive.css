@@ -1,4 +1,44 @@
 @media only screen and (max-width: 600px) {
+    .header {
+        height: 70px;
+    }
+
+    nav {
+        padding: 5px 15px;
+    }
+
+    .logo {
+        height: 60px;
+    }
+    
+    .nav-bar ul{
+        border: 1px solid #000000;;
+    }
+
+    ul li{
+        width: 100%;
+        text-align: center;
+    }
+
+    ul li a.active {
+        color: #070707;
+        background-color: #0671Bf;
+    }
+
+    ul li a {
+        font-size: 16px;
+        font-weight: 600;
+        color:#0671Bf;
+        background-color: #ffffff;
+        display: inline-block;
+        width: 100%;
+        padding: 15px 0px;
+    }
+
+    ul li {
+        margin: 1px 0;
+      }
+
     .about-us {
         margin: 0px 5px;
     }
@@ -12,10 +52,10 @@
         margin: 0px 0px 3px 0px;
     }
 
-    .about-us-text h2{
+    .about-us-text h2 {
         padding: 4px 0px 0px 0px;
         font-size: 3vw;
-      }
+    }
 
     .section-div {
         margin: 10px 0px;
@@ -31,7 +71,19 @@
         font-size: 3vw;
         font-weight: 500;
     }
-    .footer-logo{
+
+    .footer-logo {
         font-size: 3vw;
-      }
+    }
+
+    .img-text-div {
+        padding: 2px 0px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .img-text-div p {
+        font-size: 1.2rem;
+
+    }
 }
